@@ -108,7 +108,11 @@ Hello there! I'm Anvesh Ambala, a passionate software engineer currently pursuin
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhilsplendid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+[![](https://raw.githubusercontent.com/AnveshAmbala/smaple-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AnveshAmbala/smaple-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AnveshAmbala/smaple-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AnveshAmbala/smaple-cards/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AnveshAmbala/smaple-cards/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
 
 ###
